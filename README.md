@@ -13,7 +13,7 @@ Kami telah menyelesaikan
 
 Yang kami Lewatkan
 1. Tampilan yang bagus
-2. Aplikasi forced down saat membuka alarm
+2. Gambar Film tidak muncul (kami tidak tahu kenapa tetapi yg lain sudah masuk, hanya gambar yang tidak masuk)
 3. SQL Lite
 
 Kepada Tim Eudeka terima kasih sudah memberikan Ilmu yang dapat kami terapkan, 
